@@ -9,14 +9,6 @@
   <p align="center">
     "BattleDev" est une compétition de codage mondiale  qui met au défi les développeurs de résoudre des défis de codage chronométrés, en mettant l'accent sur la victoire par la résolution de problèmes et les compétences techniques.
     <br/>
-
-    <br/>
-    <a href="https://github.com/PapillonApp/Papillon/issues">Report Bug</a>
-    <a href="https://github.com/PapillonApp/Papillon/issues">Request Feature</a>
-    <br/>
-    <br/>
-    
-  </p>
 </p>
 
 [![](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/vFmCwSzvAp)
