@@ -1,2 +1,110 @@
-# BattleDev
-BattleDev est un site de compétition de code en français qui propose une plateforme en ligne pour les programmeurs de tous niveaux. Les utilisateurs peuvent s'affronter en temps réel dans des matchs 1v1, 2v2 ou des Battle Royales. Les joueurs peuvent jouer à tout moment et défier leurs amis, leurs collègues ou d'autres joueurs du monde entier.
+<br/>
+<p align="center">
+  <a href="https://github.com/BattleDev/BattleDev">
+    <img src="https://i.ibb.co/BL8qgJQ/image.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">BattleDev - Code, défis, victoire.</h3>
+
+  <p align="center">
+    "BattleDev" est une compétition de codage mondiale  qui met au défi les développeurs de résoudre des défis de codage chronométrés, en mettant l'accent sur la victoire par la résolution de problèmes et les compétences techniques.
+    <br/>
+
+    <br/>
+    <a href="https://github.com/PapillonApp/Papillon/issues">Report Bug</a>
+    |
+    <a href="https://github.com/PapillonApp/Papillon/issues">Request Feature</a>
+    <br/>
+    <br/>
+    
+  </p>
+</p>
+
+[![](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/vFmCwSzvAp)
+[![](https://img.shields.io/badge/Instagram-thepapillonapp-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/thepapillonapp/)
+
+![Downloads](https://img.shields.io/github/downloads/PapillonApp/Papillon/total) ![Contributors](https://img.shields.io/github/contributors/PapillonApp/Papillon?color=dark-green) ![Issues](https://img.shields.io/github/issues/PapillonApp/Papillon) ![License](https://img.shields.io/github/license/PapillonApp/Papillon) 
+
+## Table Of Contents
+
+- [Table Of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+  - [Creating A Pull Request](#creating-a-pull-request)
+- [License](#license)
+- [Authors](#authors)
+- [Acknowledgements](#acknowledgements)
+
+## About The Project
+
+![image](https://user-images.githubusercontent.com/32978709/224423590-28a7ee54-3f69-4d34-8cbb-8a5f268a025e.png)
+
+* **Caractéristiques de BattleDev**
+    - 🏆 Compétition basée sur des défis
+        + ⏱️ Défis de codage chronométrés
+        + 🧩 Accent mis sur la résolution de problèmes
+        + 📈 Suivi du classement
+    - 🌎 Ouvert à tous les niveaux de développeurs
+        + 👥 Compétition individuelle ou en équipe
+        + 🌐 Participation mondiale
+        + 💸 Pas de frais d'inscription
+    - 🎓 Format flexible
+        + 💻 Uniquement en ligne
+        + 🔄 Plusieurs tours
+        + 🗣️ Variété de langages de codage
+     - 🎉 Ambiance excitante
+        + ⚡ Compétition rapide
+        + 🔥 Environnement sous pression
+        + 🌍 Reconnaissance mondiale
+
+* **Une plateforme intuitive**
+    - 🎨 Design propre et convivial
+        + 🧭 Facile à naviguer
+        + 🚀 Interface minimaliste
+    - 🚀 Optimisée pour les performances
+         + ⚡ Rapide et réactive
+         + 🕰️ Faible latence
+
+    - 🚀 Régulièrement mise à jour avec de nouvelles fonctionnalités
+
+       + 🐞 Corrections de bogues et améliorations de performances
+       + 🆕 Nouveaux défis et catégories
+       + 🚀 Amélioration de l'expérience utilisateur
+
+## Built With
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+## Roadmap
+
+See the [open issues](https://github.com/PapillonApp/Papillon/issues) for a list of proposed features (and known issues).
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/PapillonApp/Papillon/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/PapillonApp/Papillon/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+
+
+## License
+
+Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/PapillonApp/Papillon/blob/main/LICENSE.md) for more information.
+
+## Authors
+
+* **Ziyad Chaouki** - *French student in high school* - [Ziyad Chaouki](https://github.com/cha0uk1/) - *Creator of BattleDev*
+
