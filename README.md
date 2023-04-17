@@ -12,7 +12,6 @@
 
     <br/>
     <a href="https://github.com/PapillonApp/Papillon/issues">Report Bug</a>
-    |
     <a href="https://github.com/PapillonApp/Papillon/issues">Request Feature</a>
     <br/>
     <br/>
