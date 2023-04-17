@@ -84,5 +84,5 @@ Distributed under the GPL-3.0 License. See [LICENSE](https://github.com/Papillon
 
 ## Authors
 
-* **Ziyad Chaouki** - *French student in high school* - [Ziyad Chaouki](https://github.com/cha0uk1/) - *Creator of BattleDev*
+* **Ziyad Chaouki** - *Moroccan student in high school* - [Ziyad Chaouki](https://github.com/cha0uk1/) - *Creator of BattleDev*
 
