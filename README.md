@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/BattleDev/BattleDev">
+  <a href="https://raw.githubusercontent.com/cha0uki/BattleDev/main/Asset%2038.png">
     <img src="https://raw.githubusercontent.com/cha0uki/BattleDev/main/Asset%2038.png" alt="Logo" width="80" height="80">
   </a>
 
