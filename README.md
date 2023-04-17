@@ -29,7 +29,7 @@
 
 ## About The Project
 
-![image](https://user-images.githubusercontent.com/32978709/224423590-28a7ee54-3f69-4d34-8cbb-8a5f268a025e.png)
+![image](https://github.com/cha0uki/BattleDev/blob/e0bcf28e95994ed247cec5beb60a62b22adb0699/Screen%20Shot%202023-04-17%20at%206.06.37%20PM.png)
 
 * **Caractéristiques de BattleDev**
     - 🏆 Compétition basée sur des défis
