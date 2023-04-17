@@ -7,7 +7,7 @@
   <h3 align="center">BattleDev - Code, défis, victoire.</h3>
 
   <p align="center">
-    "BattleDev" est une compétition de codage mondiale  qui met au défi les développeurs de résoudre des défis de codage chronométrés, en mettant l'accent sur la victoire par la résolution de problèmes et les compétences techniques.
+    "BattleDev" est une compétition de codage mondiale  qui met au défi les développeurs en 1v1 de résoudre des défis de codage chronométrés, en mettant l'accent sur la victoire par la résolution de problèmes et les compétences techniques.
     <br/>
 </p>
 
