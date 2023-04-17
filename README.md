@@ -29,17 +29,12 @@
 
 - [Table Of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-  - [Creating A Pull Request](#creating-a-pull-request)
 - [License](#license)
 - [Authors](#authors)
-- [Acknowledgements](#acknowledgements)
+
 
 ## About The Project
 
@@ -77,19 +72,11 @@
        + 🆕 Nouveaux défis et catégories
        + 🚀 Amélioration de l'expérience utilisateur
 
-## Built With
-
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 
 
 ## Roadmap
 
-See the [open issues](https://github.com/PapillonApp/Papillon/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/BattleDev/BattleDev/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -97,7 +84,7 @@ Contributions are what make the open source community such an amazing place to b
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/PapillonApp/Papillon/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/PapillonApp/Papillon/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please also read through the [Code Of Conduct](https://github.com/PapillonApp/BattleDev/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 
 ## License
