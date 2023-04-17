@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/vFmCwSzvp)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cha0uk1/)
 
-![Downloads](https://img.shields.io/github/gist/stars/BattleDev?style=social) ![Contributors](https://img.shields.io/github/contributors/PapillonApp/Papillon?color=dark-green) ![Issues](https://img.shields.io/github/issues/PapillonApp/Papillon) ![License](https://img.shields.io/github/license/PapillonApp/Papillon) 
+![Downloads](https://img.shields.io/github/gist/stars/BattleDev?style=social)  ![Issues](https://img.shields.io/github/issues/PapillonApp/Papillon) ![License](https://img.shields.io/github/license/PapillonApp/Papillon) 
 
 ## Table Of Contents
 
